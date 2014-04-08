@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/nicklockwood/SwipeView"
   s.license      = { :type => 'MIT', :file => 'LICENCE.md' }
   s.author       = { "Nick Lockwood" => "support@charcoaldesign.co.uk" }
-  s.source       = { :git => "https://github.com/MartinMoizard/SwipeView.git", :tag => "1.2.11" }
+  s.source       = { :git => "https://github.com/MartinMoizard/SwipeView.git" }
   s.source_files = 'SwipeView'
   s.requires_arc = true
   s.platform     = :ios
